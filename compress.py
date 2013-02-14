@@ -1,5 +1,5 @@
 # compress.py
-# http://rosettacode.org/wiki/LZW_compression#Python
+# taken from http://rosettacode.org/wiki/LZW_compression#Python
 
 ##fname = "flintstones.txt"
 
